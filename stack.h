@@ -7,6 +7,7 @@
 #define SPL_STACK_H
 
 typedef struct StackImplementation* Stack;
+typedef struct NodeImplementation* Node;
 
 /**
  * Used to create a stack structure.

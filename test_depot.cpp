@@ -5,6 +5,7 @@
 #include "shortcut.h"
 #include "test_depot.h"
 #include "depot.h"
+#include "stack.h"
 
 // Stack Tests
 TEST(create_stack)
